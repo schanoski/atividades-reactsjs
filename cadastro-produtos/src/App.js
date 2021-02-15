@@ -12,7 +12,7 @@ function App() {
           <div className="container">
             <Rotas />
           </div>
-        </HashRouter>
+    </HashRouter>
     </>
   );
 }
